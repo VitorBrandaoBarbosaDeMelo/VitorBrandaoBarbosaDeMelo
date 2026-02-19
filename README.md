@@ -6,7 +6,7 @@ Me chamo Vitor Brandão Barbosa, tenho 33 anos e sou natural de Alagoas, mas mor
 A melhor forma de manter-se atualizado e criar network é atravez de "[Bootcamps da DIO](https://www.dio.me/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="x">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
