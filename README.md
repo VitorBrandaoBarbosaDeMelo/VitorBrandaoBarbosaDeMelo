@@ -27,7 +27,7 @@ A melhor forma de manter-se atualizado e criar network é atravez de "[Bootcamps
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="xxx">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
