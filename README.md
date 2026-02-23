@@ -1,9 +1,16 @@
-# 👨🏻‍💻 Vitor Brandão Barbosa
+👨‍💻 Vitor Brandão Barbosa
+Software Developer | Automation & Data Engineering
 
-**`Desenvolvedor FullStack`**
+Analista de Sistemas focado em transformar processos complexos de negócio em soluções automatizadas e escaláveis. Especialista em construir automações robustas com Python e Selenium, estruturadas profissionalmente com Poetry e versionadas via Git.
 
-Me chamo Vitor Brandão Barbosa, tenho 33 anos e sou natural de Alagoas, mas moro em Londrina-PR. Sou bacharel em Ciências contábeis. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCPR. Sou apaixonado por tecnologia. Iniciei com Analise de dados, possuo vivência prática em automação de processos utilizando Python, selenium, Pyautogui, VBA, além de experiência na criação de dashboards e integração de dados. Atualmente me dedico a projetos Back-end com Python, Java e algumas outras linguagens de programação.
-A melhor forma de manter-se atualizado e criar network é atravez de "[Bootcamps da DIO](https://www.dio.me/)".
+🛠️ Stack Principal
+Linguagens: Python, C# (.NET), SQL (SQL Server, MySQL, SQLite)
+
+Automação: Selenium, RPA, Web Scraping
+
+Ferramentas: Poetry (Gestão de dependências), Git/GitHub (Versionamento), Power BI
+
+ERP/Low-Code: SAP Key User (S/4HANA), MS Power App
 
 <p align="left">
     <a href="xxx">
