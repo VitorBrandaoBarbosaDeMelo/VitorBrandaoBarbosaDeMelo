@@ -1,10 +1,10 @@
 👨‍💻 Vitor Brandão Barbosa
 Software Developer | Automation & Data Engineering
 
-Analista de Sistemas focado em transformar processos complexos de negócio em soluções automatizadas e escaláveis. Especialista em construir automações robustas com Python e Selenium, estruturadas profissionalmente com Poetry e versionadas via Git.
+Analista de Sistemas focado em transformar processos complexos de negócio em soluções automatizadas e escaláveis. Foco em construir automações robustas com Python e Selenium, estruturadas profissionalmente com Poetry e versionadas via Git.
 
 🛠️ Stack Principal
-Linguagens: Python, C# (.NET), SQL (SQL Server, MySQL, SQLite)
+Linguagens: Python, C# (.NET), Java, SQL (SQL Server, MySQL, SQLite)
 
 Automação: Selenium, RPA, Web Scraping
 
